@@ -14,7 +14,7 @@ This visualizer includes the following sorting algorithms:
 1. **Bubble Sort** - A simple comparison-based algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order.
 2. **Insertion Sort** - Builds the final sorted array one item at a time by repeatedly picking the next element and inserting it into the correct position.
 3. **Selection Sort** - Divides the array into a sorted and unsorted region, repeatedly selecting the smallest element from the unsorted region and moving it to the sorted region.
-4. **Ripple Sort** - Similar to bubble sort but with a bidirectional approach, swapping in both directions.
+4. **Ripple Sort** - Similar to bubble sort but with a bidirectional approach, swapping in both directions. A
 
 ## User Interaction
 
